@@ -1,0 +1,2273 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5ed5dcae7828ae001b3b14c5"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "4aa8a0bcf964a520aa5120e3",
+        "name": "Peet's Coffee & Tea",
+        "location": {
+          "address": "6850 E. Green Lake Way North,",
+          "lat": 47.67828,
+          "lng": -122.327258,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67828,
+              "lng": -122.327258
+            },
+            {
+              "label": "entrance",
+              "lat": 47.678304,
+              "lng": -122.327264
+            }
+          ],
+          "distance": 93,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6850 E. Green Lake Way North,",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "59ff7706c47cf96da8e30ef8",
+        "name": "Retreat",
+        "location": {
+          "address": "6900 East Green Lake Way N",
+          "lat": 47.67877595834497,
+          "lng": -122.3268080342347,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67877595834497,
+              "lng": -122.3268080342347
+            }
+          ],
+          "distance": 44,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6900 East Green Lake Way N",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "1540159",
+          "url": "https://www.grubhub.com/restaurant/retreat-6900-east-green-lake-way-north-seattle/1540159?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1540159",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "52f06c50498e97eb08683531",
+        "name": "Teddy's Bigger Burgers - Greenlake",
+        "location": {
+          "address": "6900 E Green Lake Way N Unit C",
+          "lat": 47.67882695428985,
+          "lng": -122.32645225234685,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67882695428985,
+              "lng": -122.32645225234685
+            }
+          ],
+          "distance": 60,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6900 E Green Lake Way N Unit C",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16c941735",
+            "name": "Burger Joint",
+            "pluralName": "Burger Joints",
+            "shortName": "Burgers",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4a77680ff964a52064e41fe3",
+        "name": "Spud Fish & Chips",
+        "location": {
+          "address": "6860 E Green Lake Way N",
+          "crossStreet": "at 4th Ave NE",
+          "lat": 47.678385751404726,
+          "lng": -122.32697798217735,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.678385751404726,
+              "lng": -122.32697798217735
+            },
+            {
+              "label": "entrance",
+              "lat": 47.678366,
+              "lng": -122.326965
+            }
+          ],
+          "distance": 81,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6860 E Green Lake Way N (at 4th Ave NE)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4edd64a0c7ddd24ca188df1a",
+            "name": "Fish & Chips Shop",
+            "pluralName": "Fish & Chips Shops",
+            "shortName": "Fish & Chips",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fishandchips_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "1557463",
+          "url": "https://www.grubhub.com/restaurant/spud-fish--chips-6860-east-green-lake-way-north-seattle/1557463?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1557463",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4d8270c53e916dcbb2f881d2",
+        "name": "Robeks Juice & Premium Smoothies",
+        "location": {
+          "address": "6900 E Green Lake Way N",
+          "crossStreet": "Ravenna",
+          "lat": 47.678438,
+          "lng": -122.32606299999999,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.678438,
+              "lng": -122.32606299999999
+            }
+          ],
+          "distance": 109,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6900 E Green Lake Way N (Ravenna)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d112941735",
+            "name": "Juice Bar",
+            "pluralName": "Juice Bars",
+            "shortName": "Juice Bar",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "venuePage": {
+          "id": "90487620"
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5963f5a90f013c1c2a0d1152",
+        "name": "Revolutions Coffee",
+        "location": {
+          "address": "7208 E Green Lake Dr N",
+          "lat": 47.680559024636146,
+          "lng": -122.32607574999243,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.680559024636146,
+              "lng": -122.32607574999243
+            }
+          ],
+          "distance": 179,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "7208 E Green Lake Dr N",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "43616a00f964a52040291fe3",
+        "name": "Nell's Restaurant",
+        "location": {
+          "address": "6804 E Green Lake Way N",
+          "lat": 47.678296103637734,
+          "lng": -122.3278681306052,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.678296103637734,
+              "lng": -122.3278681306052
+            },
+            {
+              "label": "entrance",
+              "lat": 47.678205,
+              "lng": -122.327798
+            }
+          ],
+          "distance": 106,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6804 E Green Lake Way N",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d157941735",
+            "name": "New American Restaurant",
+            "pluralName": "New American Restaurants",
+            "shortName": "New American",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "42814b00f964a52007221fe3",
+        "name": "Starbucks",
+        "location": {
+          "address": "7100 E Green Lake Dr N",
+          "lat": 47.680008,
+          "lng": -122.32553,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.680008,
+              "lng": -122.32553
+            }
+          ],
+          "distance": 155,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "7100 E Green Lake Dr N",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "1545191",
+          "url": "https://www.grubhub.com/restaurant/starbucks-7100-east-green-lake-drive-north-seattle/1545191?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1545191",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5aceb7fe628c83376f1fb867",
+        "name": "Tapas Lab",
+        "location": {
+          "address": "7012 Woodlawn Ave NE",
+          "lat": 47.6794,
+          "lng": -122.324341,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.6794,
+              "lng": -122.324341
+            }
+          ],
+          "distance": 211,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "7012 Woodlawn Ave NE",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1db931735",
+            "name": "Tapas Restaurant",
+            "pluralName": "Tapas Restaurants",
+            "shortName": "Tapas",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "1568380",
+          "url": "https://www.grubhub.com/restaurant/tapas-lab-7012-woodlawn-avenue-northeast-seattle/1568380?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1568380",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4ca9412314c3370413b5dc3b",
+        "name": "Mykonos Grill",
+        "location": {
+          "address": "310 NE 72nd St",
+          "crossStreet": "at E Green Lake Dr N",
+          "lat": 47.68046269341458,
+          "lng": -122.32532692334841,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.68046269341458,
+              "lng": -122.32532692334841
+            },
+            {
+              "label": "entrance",
+              "lat": 47.680482,
+              "lng": -122.325276
+            }
+          ],
+          "distance": 202,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "310 NE 72nd St (at E Green Lake Dr N)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10e941735",
+            "name": "Greek Restaurant",
+            "pluralName": "Greek Restaurants",
+            "shortName": "Greek",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "1560262",
+          "url": "https://www.grubhub.com/restaurant/mykonos-greek-grill-310-northeast-72nd-street-seattle/1560262?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1560262",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5d1f8ac4b55cb800238f0d83",
+        "name": "Armistice Coffee Roasters",
+        "location": {
+          "address": "6717 Roosevelt Way NE",
+          "lat": 47.677823,
+          "lng": -122.31766,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.677823,
+              "lng": -122.31766
+            }
+          ],
+          "distance": 724,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6717 Roosevelt Way NE",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4586798af964a520b53f1fe3",
+        "name": "Wayward Vegan Cafe",
+        "location": {
+          "address": "801 NE 65th St",
+          "lat": 47.67580514146781,
+          "lng": -122.31997004580023,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67580514146781,
+              "lng": -122.31997004580023
+            },
+            {
+              "label": "entrance",
+              "lat": 47.675737,
+              "lng": -122.319581
+            }
+          ],
+          "distance": 651,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "801 NE 65th St",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d3941735",
+            "name": "Vegetarian / Vegan Restaurant",
+            "pluralName": "Vegetarian / Vegan Restaurants",
+            "shortName": "Vegetarian / Vegan",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "58784c7c25911e1bb26b386f",
+        "name": "Heartbeet Organic Superfoods Cafe",
+        "location": {
+          "address": "1635 Queen Anne Ave N",
+          "lat": 47.677097,
+          "lng": -122.317225,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.677097,
+              "lng": -122.317225
+            }
+          ],
+          "distance": 775,
+          "postalCode": "98109",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "1635 Queen Anne Ave N",
+            "Seattle, WA 98109",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d3941735",
+            "name": "Vegetarian / Vegan Restaurant",
+            "pluralName": "Vegetarian / Vegan Restaurants",
+            "shortName": "Vegetarian / Vegan",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4b21d85af964a520ec4124e3",
+        "name": "Green Lake Boathouse",
+        "location": {
+          "address": "7351 E Green Lake Dr N",
+          "lat": 47.68128013742797,
+          "lng": -122.32900243763002,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.68128013742797,
+              "lng": -122.32900243763002
+            },
+            {
+              "label": "entrance",
+              "lat": 47.681457,
+              "lng": -122.328799
+            }
+          ],
+          "distance": 278,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "7351 E Green Lake Dr N",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d161941735",
+            "name": "Lake",
+            "pluralName": "Lakes",
+            "shortName": "Lake",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "53699354498e2e1b14b61b1c",
+        "name": "O'ginger Bistro",
+        "location": {
+          "address": "6900 E Green Lake Way N",
+          "lat": 47.679040696090105,
+          "lng": -122.32565097019481,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.679040696090105,
+              "lng": -122.32565097019481
+            },
+            {
+              "label": "entrance",
+              "lat": 47.678606,
+              "lng": -122.326449
+            }
+          ],
+          "distance": 111,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6900 E Green Lake Way N",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d149941735",
+            "name": "Thai Restaurant",
+            "pluralName": "Thai Restaurants",
+            "shortName": "Thai",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "323068",
+          "url": "https://www.grubhub.com/restaurant/oginger-bistro-6900-e-green-lake-way-n-ste-f2-seattle/323068?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=323068",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "42829c80f964a52044221fe3",
+        "name": "Thai Ocean",
+        "location": {
+          "address": "401 NE Ravenna Blvd",
+          "lat": 47.67844737274893,
+          "lng": -122.32523559307596,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67844737274893,
+              "lng": -122.32523559307596
+            }
+          ],
+          "distance": 160,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "401 NE Ravenna Blvd",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d149941735",
+            "name": "Thai Restaurant",
+            "pluralName": "Thai Restaurants",
+            "shortName": "Thai",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "492575",
+          "url": "https://www.grubhub.com/restaurant/thai-ocean-restaurant-401-ne-ravenna-blvd-seattle/492575?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=492575",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5d577e88036b2a0008e09d58",
+        "name": "Dalongyi Hot Pot Seattle \u5927\u9f99\u71da\u706b\u9505",
+        "location": {
+          "address": "7119 Woodlawn Ave NE",
+          "crossStreet": "72th And Woodlawn ave.",
+          "lat": 47.680342,
+          "lng": -122.324705,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.680342,
+              "lng": -122.324705
+            }
+          ],
+          "distance": 227,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "7119 Woodlawn Ave NE (72th And Woodlawn ave.)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52af0bd33cf9994f4e043bdd",
+            "name": "Hotpot Restaurant",
+            "pluralName": "Hotpot Restaurants",
+            "shortName": "Hotpot",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5d5aba5d0ae78d0007a3a048",
+        "name": "Eight Row",
+        "location": {
+          "address": "7102 Woodlawn Ave NE",
+          "lat": 47.679872,
+          "lng": -122.32466,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.679872,
+              "lng": -122.32466
+            }
+          ],
+          "distance": 203,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "7102 Woodlawn Ave NE",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d157941735",
+            "name": "New American Restaurant",
+            "pluralName": "New American Restaurants",
+            "shortName": "New American",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5ab7f5b97dc9e1624d95e182",
+        "name": "Blankspace Cafe",
+        "location": {
+          "address": "7214 Woodlawn Ave NE",
+          "lat": 47.680987,
+          "lng": -122.324872,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.680987,
+              "lng": -122.324872
+            }
+          ],
+          "distance": 268,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "7214 Woodlawn Ave NE",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52e81612bcbc57f1066b7a0c",
+            "name": "Bubble Tea Shop",
+            "pluralName": "Bubble Tea Shops",
+            "shortName": "Bubble Tea",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bubble_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4a9b9281f964a5201a3520e3",
+        "name": "Turnpike Pizza",
+        "location": {
+          "address": "6900 E Green Lake Way N",
+          "crossStreet": "at 4th Ave NE",
+          "lat": 47.67882170602366,
+          "lng": -122.32620308962208,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67882170602366,
+              "lng": -122.32620308962208
+            }
+          ],
+          "distance": 76,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6900 E Green Lake Way N (at 4th Ave NE)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ca941735",
+            "name": "Pizza Place",
+            "pluralName": "Pizza Places",
+            "shortName": "Pizza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "venuePage": {
+          "id": "63011960"
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5845f18ca598b36bfb7f46dd",
+        "name": "Brunello Ristorante Italiano",
+        "location": {
+          "address": "7115 Roosevelt Way NE",
+          "crossStreet": "NE 72nd St",
+          "lat": 47.680676,
+          "lng": -122.317631,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.680676,
+              "lng": -122.317631
+            },
+            {
+              "label": "entrance",
+              "lat": 47.680701,
+              "lng": -122.317593
+            }
+          ],
+          "distance": 733,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "7115 Roosevelt Way NE (NE 72nd St)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d110941735",
+            "name": "Italian Restaurant",
+            "pluralName": "Italian Restaurants",
+            "shortName": "Italian",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "55b6d850498e54e02d4afbef",
+        "name": "Thaprachan Thai Cuisine",
+        "location": {
+          "address": "805 NE 65th St Ste E",
+          "lat": 47.675813041702156,
+          "lng": -122.31974899248254,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.675813041702156,
+              "lng": -122.31974899248254
+            }
+          ],
+          "distance": 664,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "805 NE 65th St Ste E",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d149941735",
+            "name": "Thai Restaurant",
+            "pluralName": "Thai Restaurants",
+            "shortName": "Thai",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "312552",
+          "url": "https://www.grubhub.com/restaurant/thaprachan-thai-cuisine-805-ne-65th-st-seattle/312552?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=312552",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5b7c7eb41fa763002c76edf6",
+        "name": "Frelard Tamales",
+        "location": {
+          "address": "6412 Latona Ave NE",
+          "lat": 47.675577,
+          "lng": -122.325259,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.675577,
+              "lng": -122.325259
+            }
+          ],
+          "distance": 418,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6412 Latona Ave NE",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "56aa371be4b08b9a8d573550",
+            "name": "Food Service",
+            "pluralName": "Food Services",
+            "shortName": "Food Service",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "554d6cde498e693538e62df4",
+        "name": "Jones' Ribs & Charcuterie",
+        "location": {
+          "address": "142 NE 60th St",
+          "lat": 47.67242688168259,
+          "lng": -122.32622424375252,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67242688168259,
+              "lng": -122.32622424375252
+            },
+            {
+              "label": "entrance",
+              "lat": 47.672361,
+              "lng": -122.326278
+            }
+          ],
+          "distance": 747,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "142 NE 60th St",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1df931735",
+            "name": "BBQ Joint",
+            "pluralName": "BBQ Joints",
+            "shortName": "BBQ",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5c71babe037be1002c479f7a",
+        "name": "Ming Chinese",
+        "location": {
+          "lat": 47.680406,
+          "lng": -122.324764,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.680406,
+              "lng": -122.324764
+            }
+          ],
+          "distance": 228,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d145941735",
+            "name": "Chinese Restaurant",
+            "pluralName": "Chinese Restaurants",
+            "shortName": "Chinese",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4e38b3291f6ecc2de15c04d7",
+        "name": "Bangkok Street",
+        "location": {
+          "address": "814 NE 65th St",
+          "lat": 47.675862776891606,
+          "lng": -122.31857136776995,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.675862776891606,
+              "lng": -122.31857136776995
+            }
+          ],
+          "distance": 736,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "814 NE 65th St",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d149941735",
+            "name": "Thai Restaurant",
+            "pluralName": "Thai Restaurants",
+            "shortName": "Thai",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4b0b11a7f964a520632c23e3",
+        "name": "72nd Street Cafe",
+        "location": {
+          "address": "308 NE 72nd St",
+          "crossStreet": "Green Lake Way",
+          "lat": 47.68043727081272,
+          "lng": -122.32541016028699,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.68043727081272,
+              "lng": -122.32541016028699
+            },
+            {
+              "label": "entrance",
+              "lat": 47.680461,
+              "lng": -122.325405
+            }
+          ],
+          "distance": 195,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "308 NE 72nd St (Green Lake Way)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4d855d077e8ef04d9cf91fbe",
+        "name": "Jodee's Desserts",
+        "location": {
+          "address": "7214 Woodlawn Ave NE",
+          "lat": 47.680969,
+          "lng": -122.324744,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.680969,
+              "lng": -122.324744
+            },
+            {
+              "label": "entrance",
+              "lat": 47.680946,
+              "lng": -122.324852
+            }
+          ],
+          "distance": 273,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "7214 Woodlawn Ave NE",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d0941735",
+            "name": "Dessert Shop",
+            "pluralName": "Dessert Shops",
+            "shortName": "Desserts",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4ac56be1f964a520f8b120e3",
+        "name": "Bengal Tiger Cuisine of India",
+        "location": {
+          "address": "6509 Roosevelt Way NE",
+          "crossStreet": "NE 65th St",
+          "lat": 47.67613917564358,
+          "lng": -122.31755808276141,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67613917564358,
+              "lng": -122.31755808276141
+            },
+            {
+              "label": "entrance",
+              "lat": 47.676143,
+              "lng": -122.317488
+            }
+          ],
+          "distance": 790,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6509 Roosevelt Way NE (NE 65th St)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10f941735",
+            "name": "Indian Restaurant",
+            "pluralName": "Indian Restaurants",
+            "shortName": "Indian",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "1424032",
+          "url": "https://www.grubhub.com/restaurant/bengal-tiger-cuisine-of-india-6509-roosevelt-way-ne-seattle/1424032?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1424032",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "venuePage": {
+          "id": "42405346"
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4251d500f964a520cc201fe3",
+        "name": "Rosita's Mexican Grill",
+        "location": {
+          "address": "7210 Woodlawn Ave NE",
+          "crossStreet": "at 72nd St",
+          "lat": 47.68069187726904,
+          "lng": -122.32476843125815,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.68069187726904,
+              "lng": -122.32476843125815
+            },
+            {
+              "label": "entrance",
+              "lat": 47.680814,
+              "lng": -122.324761
+            }
+          ],
+          "distance": 249,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "7210 Woodlawn Ave NE (at 72nd St)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c1941735",
+            "name": "Mexican Restaurant",
+            "pluralName": "Mexican Restaurants",
+            "shortName": "Mexican",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "40b13b00f964a520a9f61ee3",
+        "name": "Latona Pub",
+        "location": {
+          "address": "6423 Latona Ave NE",
+          "crossStreet": "btwn 64th St & 65th St",
+          "lat": 47.67581879263341,
+          "lng": -122.32561263774974,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67581879263341,
+              "lng": -122.32561263774974
+            },
+            {
+              "label": "entrance",
+              "lat": 47.675764,
+              "lng": -122.325572
+            }
+          ],
+          "distance": 384,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6423 Latona Ave NE (btwn 64th St & 65th St)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14e941735",
+            "name": "American Restaurant",
+            "pluralName": "American Restaurants",
+            "shortName": "American",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "51e59a2b8bbd9a79920ae2a6",
+        "name": "Thurston's Bistro & Lounge",
+        "location": {
+          "address": "6421 Latona Ave NE",
+          "crossStreet": "Latona Ave NE & NE 65th St",
+          "lat": 47.67575004523997,
+          "lng": -122.32561579060292,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67575004523997,
+              "lng": -122.32561579060292
+            },
+            {
+              "label": "entrance",
+              "lat": 47.675733,
+              "lng": -122.325573
+            }
+          ],
+          "distance": 391,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6421 Latona Ave NE (Latona Ave NE & NE 65th St)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14e941735",
+            "name": "American Restaurant",
+            "pluralName": "American Restaurants",
+            "shortName": "American",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "venuePage": {
+          "id": "61017228"
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5417ba6e498e2d7b15c88be9",
+        "name": "Menchie's",
+        "location": {
+          "lat": 47.680131863538996,
+          "lng": -122.32354580410357,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.680131863538996,
+              "lng": -122.32354580410357
+            },
+            {
+              "label": "entrance",
+              "lat": 47.680014,
+              "lng": -122.323913
+            }
+          ],
+          "distance": 291,
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "Seattle, WA",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "512e7cae91d4cbb4e5efe0af",
+            "name": "Frozen Yogurt Shop",
+            "pluralName": "Frozen Yogurt Shops",
+            "shortName": "Yogurt",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/frozenyogurt_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "50bb9fb9e4b0fa375cfb2f85",
+        "name": "George Paul Chocolates",
+        "location": {
+          "address": "409 NE 70th St",
+          "lat": 47.679106,
+          "lng": -122.324141,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.679106,
+              "lng": -122.324141
+            },
+            {
+              "label": "entrance",
+              "lat": 47.679023,
+              "lng": -122.324248
+            }
+          ],
+          "distance": 224,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "409 NE 70th St",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Caf\u00e9",
+            "pluralName": "Caf\u00e9s",
+            "shortName": "Caf\u00e9",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "53274a49498e81924ff9271b",
+        "name": "Middle Fork Roasters",
+        "location": {
+          "lat": 47.680311,
+          "lng": -122.325316,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.680311,
+              "lng": -122.325316
+            }
+          ],
+          "distance": 190,
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "Seattle, WA",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4e3e02a752b1a04aff20de54",
+        "name": "Florera Rooftop",
+        "location": {
+          "lat": 47.679019,
+          "lng": -122.324275,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.679019,
+              "lng": -122.324275
+            }
+          ],
+          "distance": 214,
+          "cc": "US",
+          "state": "Washington",
+          "country": "United States",
+          "formattedAddress": [
+            "Washington",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1df931735",
+            "name": "BBQ Joint",
+            "pluralName": "BBQ Joints",
+            "shortName": "BBQ",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4e4e126abd4101d0d7a18d02",
+        "name": "Ivar's Seafood Restaurant",
+        "location": {
+          "address": "401 NE Northgate Way",
+          "lat": 47.67863659478105,
+          "lng": -122.3257872429765,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67863659478105,
+              "lng": -122.3257872429765
+            }
+          ],
+          "distance": 113,
+          "postalCode": "98125",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "401 NE Northgate Way",
+            "Seattle, WA 98125",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ce941735",
+            "name": "Seafood Restaurant",
+            "pluralName": "Seafood Restaurants",
+            "shortName": "Seafood",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "558230c0498ef1d157f4ad9d",
+        "name": "An Nam Pho",
+        "location": {
+          "address": "6510 Roosevelt Way NE",
+          "lat": 47.67623337788155,
+          "lng": -122.31727787795224,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67623337788155,
+              "lng": -122.31727787795224
+            }
+          ],
+          "distance": 805,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6510 Roosevelt Way NE",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14a941735",
+            "name": "Vietnamese Restaurant",
+            "pluralName": "Vietnamese Restaurants",
+            "shortName": "Vietnamese",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vietnamese_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "1582421",
+          "url": "https://www.grubhub.com/restaurant/an-nam-pho-6510-roosevelt-way-northeast-seattle/1582421?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1582421",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "4c5cdc69ed29ef3b702c8a76",
+        "name": "Casa Patron",
+        "location": {
+          "address": "805 NE 65th St",
+          "crossStreet": "8th St NE",
+          "lat": 47.675750403181446,
+          "lng": -122.31965585672178,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.675750403181446,
+              "lng": -122.31965585672178
+            }
+          ],
+          "distance": 673,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "805 NE 65th St (8th St NE)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c1941735",
+            "name": "Mexican Restaurant",
+            "pluralName": "Mexican Restaurants",
+            "shortName": "Mexican",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "331719",
+          "url": "https://www.grubhub.com/restaurant/casa-patron-801-ne-65th-st-ste-d-seattle/331719?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=331719",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "50b702c2498ea7a45b49e6c1",
+        "name": "Hungarian Dinner @ 5th.",
+        "location": {
+          "lat": 47.67734909057617,
+          "lng": -122.32462310791016,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67734909057617,
+              "lng": -122.32462310791016
+            }
+          ],
+          "distance": 271,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d109941735",
+            "name": "Eastern European Restaurant",
+            "pluralName": "Eastern European Restaurants",
+            "shortName": "Eastern European",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "5571d5c3498e05413e658b29",
+        "name": "Kitanda Espresso & A\u00e7a\u00ed",
+        "location": {
+          "address": "428 NE 71st St",
+          "lat": 47.680268313900974,
+          "lng": -122.32366938461305,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.680268313900974,
+              "lng": -122.32366938461305
+            },
+            {
+              "label": "entrance",
+              "lat": 47.680046,
+              "lng": -122.323738
+            }
+          ],
+          "distance": 289,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "428 NE 71st St",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16b941735",
+            "name": "Brazilian Restaurant",
+            "pluralName": "Brazilian Restaurants",
+            "shortName": "Brazilian",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "553786",
+          "url": "https://www.grubhub.com/restaurant/kitanda-espresso--acai---greenlake-428-ne-71st-st-seattle/553786?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=553786",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "536c37ce498e6e70acf1dbda",
+        "name": "Broadcast Coffee",
+        "location": {
+          "address": "6515 Roosevelt Way NE",
+          "crossStreet": "NE 65th St.",
+          "lat": 47.67624187558279,
+          "lng": -122.31750786463931,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67624187558279,
+              "lng": -122.31750786463931
+            },
+            {
+              "label": "entrance",
+              "lat": 47.676287,
+              "lng": -122.31748
+            }
+          ],
+          "distance": 789,
+          "postalCode": "98115",
+          "cc": "US",
+          "neighborhood": "Roosevelt",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6515 Roosevelt Way NE (NE 65th St.)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "561162dc498e239b21c69c38",
+        "name": "Portage Bay Cafe",
+        "location": {
+          "address": "900 NE 65th St",
+          "lat": 47.67591232661352,
+          "lng": -122.31862754323241,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67591232661352,
+              "lng": -122.31862754323241
+            }
+          ],
+          "distance": 730,
+          "postalCode": "98115",
+          "cc": "US",
+          "neighborhood": "Roosevelt",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "900 NE 65th St",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d143941735",
+            "name": "Breakfast Spot",
+            "pluralName": "Breakfast Spots",
+            "shortName": "Breakfast",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "1944906",
+          "url": "https://www.grubhub.com/restaurant/portage-bay-cafe-900-ne-65th-st-seattle/1944906?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1944906",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "49cfbefef964a520c35a1fe3",
+        "name": "Cafe Lulu",
+        "location": {
+          "address": "6417 Latona Ave NE",
+          "crossStreet": "NE 65th St",
+          "lat": 47.675695282477164,
+          "lng": -122.32557452530608,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.675695282477164,
+              "lng": -122.32557452530608
+            },
+            {
+              "label": "entrance",
+              "lat": 47.675671,
+              "lng": -122.325573
+            }
+          ],
+          "distance": 398,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6417 Latona Ave NE (NE 65th St)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "549e34e6498ee641a53c6119",
+        "name": "TSUI Sushi Bar",
+        "location": {
+          "address": "6421 Latona Ave NE",
+          "lat": 47.67574000682664,
+          "lng": -122.32560038251617,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.67574000682664,
+              "lng": -122.32560038251617
+            }
+          ],
+          "distance": 392,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6421 Latona Ave NE",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d2941735",
+            "name": "Sushi Restaurant",
+            "pluralName": "Sushi Restaurants",
+            "shortName": "Sushi",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "2040094",
+          "url": "https://www.grubhub.com/restaurant/tsui-sushi-bar-6421-latona-ave-ne-seattle/2040094?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=2040094",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      },
+      {
+        "id": "49e3cf43f964a520db621fe3",
+        "name": "Krittika's Noodles & Thai",
+        "location": {
+          "address": "6411 Latona Ave NE",
+          "crossStreet": "65th and Roosevelt",
+          "lat": 47.675628383435196,
+          "lng": -122.32558531805167,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.675628383435196,
+              "lng": -122.32558531805167
+            },
+            {
+              "label": "entrance",
+              "lat": 47.675578,
+              "lng": -122.325574
+            }
+          ],
+          "distance": 404,
+          "postalCode": "98115",
+          "cc": "US",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "6411 Latona Ave NE (65th and Roosevelt)",
+            "Seattle, WA 98115",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d149941735",
+            "name": "Thai Restaurant",
+            "pluralName": "Thai Restaurants",
+            "shortName": "Thai",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074054",
+        "hasPerk": false
+      }
+    ],
+    "confident": false
+  }
+}

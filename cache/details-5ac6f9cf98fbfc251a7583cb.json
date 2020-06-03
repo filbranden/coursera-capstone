@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5ed7259740a7ea001bf6d56b"
+  },
+  "response": {
+    "venue": {
+      "id": "5ac6f9cf98fbfc251a7583cb",
+      "name": "MOD Pizza",
+      "contact": {
+        "phone": "4252434840",
+        "formattedPhone": "(425) 243-4840",
+        "twitter": "modpizza",
+        "instagram": "modpizza"
+      },
+      "location": {
+        "address": "12530 Totem Lake Blvd NE",
+        "lat": 47.711907,
+        "lng": -122.181818,
+        "labeledLatLngs": [
+          {
+            "label": "display",
+            "lat": 47.711907,
+            "lng": -122.181818
+          }
+        ],
+        "postalCode": "98034",
+        "cc": "US",
+        "neighborhood": "Totem Lake",
+        "city": "Kirkland",
+        "state": "WA",
+        "country": "United States",
+        "formattedAddress": [
+          "12530 Totem Lake Blvd NE",
+          "Kirkland, WA 98034",
+          "United States"
+        ]
+      },
+      "canonicalUrl": "https://foursquare.com/v/mod-pizza/5ac6f9cf98fbfc251a7583cb",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1ca941735",
+          "name": "Pizza Place",
+          "pluralName": "Pizza Places",
+          "shortName": "Pizza",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          },
+          "primary": true
+        },
+        {
+          "id": "4bf58dd8d48988d1c4941735",
+          "name": "Restaurant",
+          "pluralName": "Restaurants",
+          "shortName": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "verified": true,
+      "stats": {
+        "tipCount": 2
+      },
+      "url": "https://modpizza.com/locations/totem-lake/",
+      "price": {
+        "tier": 1,
+        "message": "Cheap",
+        "currency": "$"
+      },
+      "likes": {
+        "count": 4,
+        "groups": [
+          {
+            "type": "others",
+            "count": 4,
+            "items": [
+              {
+                "id": "45482378",
+                "firstName": "James",
+                "lastName": "P",
+                "photo": {
+                  "prefix": "https://fastly.4sqi.net/img/user/",
+                  "suffix": "/ZW5F4QCDS5ZTZQ04.jpg"
+                }
+              },
+              {
+                "id": "4035837",
+                "firstName": "Enrique",
+                "lastName": "G",
+                "photo": {
+                  "prefix": "https://fastly.4sqi.net/img/user/",
+                  "suffix": "/4035837_QBR71han_-5wEZFR-Ki88jnvloGI_j3qv8S0dQq22X8nENtIzrHjII_eh_poXDdvCEmZiX3ky.jpg"
+                }
+              },
+              {
+                "id": "2940632",
+                "firstName": "Joel",
+                "lastName": "P",
+                "photo": {
+                  "prefix": "https://fastly.4sqi.net/img/user/",
+                  "suffix": "/CJUUH11PHTEQMPQT.jpg"
+                }
+              },
+              {
+                "id": "708442",
+                "firstName": "Terance",
+                "lastName": "L",
+                "photo": {
+                  "prefix": "https://fastly.4sqi.net/img/user/",
+                  "suffix": "/UUBI5XFZECIYED3U.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "summary": "4 Likes"
+      },
+      "dislike": false,
+      "ok": false,
+      "rating": 7.2,
+      "ratingColor": "C5DE35",
+      "ratingSignals": 7,
+      "allowMenuUrlEdit": true,
+      "beenHere": {
+        "count": 0,
+        "unconfirmedCount": 0,
+        "marked": false,
+        "lastCheckinExpiredAt": 0
+      },
+      "specials": {
+        "count": 0,
+        "items": []
+      },
+      "photos": {
+        "count": 15,
+        "groups": [
+          {
+            "type": "venue",
+            "name": "Venue photos",
+            "count": 15,
+            "items": [
+              {
+                "id": "5da385fb2e73190008ac3c6e",
+                "createdAt": 1570997755,
+                "source": {
+                  "name": "Swarm for iOS",
+                  "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/3715623_jFeuSd91QIxkzbLjfyf_mSOmnUSqezxG5Rrd1spmSKE.jpg",
+                "width": 1920,
+                "height": 1440,
+                "user": {
+                  "id": "3715623",
+                  "firstName": "Josh",
+                  "lastName": "v",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/PWFJYXNZUBEP03GL.jpg"
+                  }
+                },
+                "visibility": "public"
+              }
+            ]
+          }
+        ]
+      },
+      "venuePage": {
+        "id": "543104306"
+      },
+      "reasons": {
+        "count": 0,
+        "items": []
+      },
+      "page": {
+        "user": {
+          "id": "543104306",
+          "firstName": "MOD Pizza",
+          "photo": {
+            "prefix": "https://fastly.4sqi.net/img/user/",
+            "suffix": "/543104306_ma7uFRyv_6IgyUvPuNlItPuUpvTUvqmXeG2iQ_tazxygyJPIEdj5NtUIdW1TlDaSXIhPNgBtR.png"
+          },
+          "type": "venuePage",
+          "venue": {
+            "id": "5ac6f9cf98fbfc251a7583cb"
+          },
+          "tips": {
+            "count": 0
+          },
+          "lists": {
+            "groups": [
+              {
+                "type": "created",
+                "count": 2,
+                "items": []
+              }
+            ]
+          },
+          "bio": ""
+        }
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "createdAt": 1522989519,
+      "tips": {
+        "count": 2,
+        "groups": [
+          {
+            "type": "others",
+            "name": "All tips",
+            "count": 2,
+            "items": [
+              {
+                "id": "5ccdecc51cf2e1002cdd4e7a",
+                "createdAt": 1556999365,
+                "text": "I was disappointed they turned off their WiFi. Pizzas are good though. \u263a\ufe0f",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5ccdecc51cf2e1002cdd4e7a",
+                "lang": "en",
+                "likes": {
+                  "count": 0,
+                  "groups": []
+                },
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 0
+                },
+                "user": {
+                  "id": "10481295",
+                  "firstName": "Charles",
+                  "lastName": "C",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/0WR0XDMXODK0VHQK.jpg"
+                  }
+                },
+                "authorInteractionType": "meh"
+              }
+            ]
+          }
+        ]
+      },
+      "shortUrl": "https://4sq.com/2Jp3pEo",
+      "timeZone": "America/Los_Angeles",
+      "listed": {
+        "count": 0,
+        "groups": [
+          {
+            "type": "others",
+            "name": "Lists from other people",
+            "count": 0,
+            "items": []
+          }
+        ]
+      },
+      "hours": {
+        "status": "Open until 10:00 PM",
+        "richStatus": {
+          "entities": [],
+          "text": "Open until 10:00 PM"
+        },
+        "isOpen": true,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon\u2013Sun",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "11:00 AM\u201310:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "popular": {
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "timeframes": [
+          {
+            "days": "Today",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "6:00 AM\u20139:00 AM"
+              },
+              {
+                "renderedTime": "1:00 PM\u20132:00 PM"
+              },
+              {
+                "renderedTime": "7:00 PM\u20139:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Wed\u2013Thu",
+            "open": [
+              {
+                "renderedTime": "5:00 AM\u20139:00 AM"
+              },
+              {
+                "renderedTime": "6:00 PM\u20139:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Fri",
+            "open": [
+              {
+                "renderedTime": "6:00 AM\u20139:00 AM"
+              },
+              {
+                "renderedTime": "6:00 PM\u20139:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat",
+            "open": [
+              {
+                "renderedTime": "7:00 AM\u20132:00 PM"
+              },
+              {
+                "renderedTime": "6:00 PM\u20139:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sun",
+            "open": [
+              {
+                "renderedTime": "6:00 AM\u20139:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Mon",
+            "open": [
+              {
+                "renderedTime": "6:00 AM\u20139:00 AM"
+              },
+              {
+                "renderedTime": "7:00 PM\u20139:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "seasonalHours": [],
+      "defaultHours": {
+        "status": "Open until 10:00 PM",
+        "richStatus": {
+          "entities": [],
+          "text": "Open until 10:00 PM"
+        },
+        "isOpen": true,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon\u2013Sun",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "11:00 AM\u201310:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "pageUpdates": {
+        "count": 0,
+        "items": []
+      },
+      "inbox": {
+        "count": 0,
+        "items": []
+      },
+      "parent": {
+        "id": "4c50ab220ef3a5933515b77a",
+        "name": "Totem Lake Malls",
+        "location": {
+          "address": "12601 120th Ave NE",
+          "crossStreet": "at Totem Lake Way",
+          "lat": 47.71297819272837,
+          "lng": -122.17998313413388,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.71297819272837,
+              "lng": -122.17998313413388
+            }
+          ],
+          "postalCode": "98034",
+          "cc": "US",
+          "city": "Kirkland",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "12601 120th Ave NE (at Totem Lake Way)",
+            "Kirkland, WA 98034",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fd941735",
+            "name": "Shopping Mall",
+            "pluralName": "Shopping Malls",
+            "shortName": "Mall",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "closed": true
+      },
+      "hierarchy": [
+        {
+          "name": "Totem Lake Malls",
+          "lang": "en",
+          "id": "4c50ab220ef3a5933515b77a",
+          "canonicalUrl": "https://foursquare.com/v/totem-lake-malls/4c50ab220ef3a5933515b77a"
+        }
+      ],
+      "attributes": {
+        "groups": [
+          {
+            "type": "price",
+            "name": "Price",
+            "summary": "$",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Price",
+                "displayValue": "$",
+                "priceTier": 1
+              }
+            ]
+          },
+          {
+            "type": "payments",
+            "name": "Credit Cards",
+            "summary": "Credit Cards",
+            "count": 7,
+            "items": [
+              {
+                "displayName": "Credit Cards",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "serves",
+            "name": "Menus",
+            "summary": "Dinner, Breakfast & more",
+            "count": 8,
+            "items": [
+              {
+                "displayName": "Breakfast",
+                "displayValue": "Breakfast"
+              },
+              {
+                "displayName": "Brunch",
+                "displayValue": "Brunch"
+              },
+              {
+                "displayName": "Lunch",
+                "displayValue": "Lunch"
+              },
+              {
+                "displayName": "Dinner",
+                "displayValue": "Dinner"
+              }
+            ]
+          },
+          {
+            "type": "parking",
+            "name": "Parking",
+            "summary": "Parking",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Parking",
+                "displayValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      "bestPhoto": {
+        "id": "5da385fb2e73190008ac3c6e",
+        "createdAt": 1570997755,
+        "source": {
+          "name": "Swarm for iOS",
+          "url": "https://www.swarmapp.com"
+        },
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/3715623_jFeuSd91QIxkzbLjfyf_mSOmnUSqezxG5Rrd1spmSKE.jpg",
+        "width": 1920,
+        "height": 1440,
+        "visibility": "public"
+      },
+      "colors": {
+        "highlightColor": {
+          "photoId": "5da385fb2e73190008ac3c6e",
+          "value": -5723992
+        },
+        "highlightTextColor": {
+          "photoId": "5da385fb2e73190008ac3c6e",
+          "value": -16777216
+        },
+        "algoVersion": 3
+      }
+    }
+  }
+}

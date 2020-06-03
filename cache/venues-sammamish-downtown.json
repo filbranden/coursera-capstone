@@ -1,0 +1,1111 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5ed5dcc0edbcad0023c630a8"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "51e6b551ccda5e11da9edd1b",
+        "name": "Jimmy John's",
+        "location": {
+          "address": "710 228th Ave NE",
+          "lat": 47.616052,
+          "lng": -122.033505,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.616052,
+              "lng": -122.033505
+            },
+            {
+              "label": "entrance",
+              "lat": 47.616327,
+              "lng": -122.033557
+            }
+          ],
+          "distance": 72,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "710 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c5941735",
+            "name": "Sandwich Place",
+            "pluralName": "Sandwich Places",
+            "shortName": "Sandwiches",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "5b1f42dc446ea6002c83e70f",
+        "name": "Sammamish Highlands",
+        "location": {
+          "address": "430-710 228th Ave NE",
+          "lat": 47.6146983,
+          "lng": -122.034173,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.6146983,
+              "lng": -122.034173
+            }
+          ],
+          "distance": 106,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "430-710 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "5744ccdfe4b0c0459246b4dc",
+            "name": "Shopping Plaza",
+            "pluralName": "Shopping Plazas",
+            "shortName": "Shopping Plaza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "504cec47e4b01b58f4797639",
+        "name": "MOD Pizza",
+        "location": {
+          "address": "22833 NE 8th St",
+          "crossStreet": "at 228th Ave NE",
+          "lat": 47.616245,
+          "lng": -122.03352,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.616245,
+              "lng": -122.03352
+            }
+          ],
+          "distance": 93,
+          "postalCode": "98074",
+          "cc": "US",
+          "neighborhood": "Inglewood",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "22833 NE 8th St (at 228th Ave NE)",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ca941735",
+            "name": "Pizza Place",
+            "pluralName": "Pizza Places",
+            "shortName": "Pizza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "venuePage": {
+          "id": "542607929"
+        },
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4b088249f964a520640d23e3",
+        "name": "Jack in the Box",
+        "location": {
+          "address": "620 228th Ave NE",
+          "lat": 47.6149358,
+          "lng": -122.0351705,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.6149358,
+              "lng": -122.0351705
+            },
+            {
+              "label": "entrance",
+              "lat": 47.614928,
+              "lng": -122.035241
+            }
+          ],
+          "distance": 154,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "620 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16e941735",
+            "name": "Fast Food Restaurant",
+            "pluralName": "Fast Food Restaurants",
+            "shortName": "Fast Food",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "5b09b29165cdf8002c37fdd9",
+        "name": "Sammamish Cafe & Spirits",
+        "location": {
+          "address": "22850 NE 8th St",
+          "lat": 47.61692243966103,
+          "lng": -122.03382388002349,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.61692243966103,
+              "lng": -122.03382388002349
+            }
+          ],
+          "distance": 172,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "22850 NE 8th St",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Caf\u00e9",
+            "pluralName": "Caf\u00e9s",
+            "shortName": "Caf\u00e9",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4aff239cf964a520ca3422e3",
+        "name": "SUBWAY",
+        "location": {
+          "address": "703 228th Ave NE Unit 703",
+          "crossStreet": "in Inglewood Plaza",
+          "lat": 47.615513772184414,
+          "lng": -122.03621933617632,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.615513772184414,
+              "lng": -122.03621933617632
+            },
+            {
+              "label": "entrance",
+              "lat": 47.615752,
+              "lng": -122.036264
+            }
+          ],
+          "distance": 223,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "703 228th Ave NE Unit 703 (in Inglewood Plaza)",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c5941735",
+            "name": "Sandwich Place",
+            "pluralName": "Sandwich Places",
+            "shortName": "Sandwiches",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "1224659",
+          "url": "https://www.grubhub.com/restaurant/subway-703-228th-ave-ne-sammamish/1224659?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1224659",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4ac8cccef964a520a1bc20e3",
+        "name": "McDonald's",
+        "location": {
+          "address": "615 228th Ave NE",
+          "lat": 47.6149113846503,
+          "lng": -122.03612744808197,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.6149113846503,
+              "lng": -122.03612744808197
+            },
+            {
+              "label": "entrance",
+              "lat": 47.61492,
+              "lng": -122.035896
+            }
+          ],
+          "distance": 224,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "615 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16e941735",
+            "name": "Fast Food Restaurant",
+            "pluralName": "Fast Food Restaurants",
+            "shortName": "Fast Food",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "5bb6c8db610f04002c0a3690",
+        "name": "Pagliacci Pizza",
+        "location": {
+          "address": "22830 NE 8th St Ste 101 Bldg 3",
+          "lat": 47.61686819421978,
+          "lng": -122.03469386261581,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.61686819421978,
+              "lng": -122.03469386261581
+            }
+          ],
+          "distance": 194,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "22830 NE 8th St Ste 101 Bldg 3",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ca941735",
+            "name": "Pizza Place",
+            "pluralName": "Pizza Places",
+            "shortName": "Pizza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4b086b0ff964a5206e0b23e3",
+        "name": "Starbucks",
+        "location": {
+          "address": "604 228th Ave NE",
+          "lat": 47.615358,
+          "lng": -122.033517,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.615358,
+              "lng": -122.033517
+            },
+            {
+              "label": "entrance",
+              "lat": 47.615411,
+              "lng": -122.033484
+            }
+          ],
+          "distance": 22,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "604 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "5c17fc476dcf04002c55b2ab",
+        "name": "Evergreens",
+        "location": {
+          "lat": 47.614644,
+          "lng": -122.034061,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.614644,
+              "lng": -122.034061
+            }
+          ],
+          "distance": 106,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1bd941735",
+            "name": "Salad Place",
+            "pluralName": "Salad Places",
+            "shortName": "Salad",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/salad_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4b1f291df964a520882424e3",
+        "name": "Papa John's Pizza",
+        "location": {
+          "address": "721 228th Ave NE",
+          "crossStreet": "at NE 8th St",
+          "lat": 47.616127336015616,
+          "lng": -122.03596798926947,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.616127336015616,
+              "lng": -122.03596798926947
+            },
+            {
+              "label": "entrance",
+              "lat": 47.616192,
+              "lng": -122.03587
+            }
+          ],
+          "distance": 219,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "721 228th Ave NE (at NE 8th St)",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ca941735",
+            "name": "Pizza Place",
+            "pluralName": "Pizza Places",
+            "shortName": "Pizza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "929017",
+          "url": "https://www.grubhub.com/restaurant/papa-johns-pizza-2773-721-228th-ave-ne-sammamish/929017?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=929017",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "5c37950c9be522002cecd27c",
+        "name": "Evergreens Salads",
+        "location": {
+          "address": "600 228th Ave NE. Sammamish, WA 98074",
+          "lat": 47.614903000000005,
+          "lng": -122.035076,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.614903000000005,
+              "lng": -122.035076
+            }
+          ],
+          "distance": 149,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "600 228th Ave NE. Sammamish, WA 98074",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1bd941735",
+            "name": "Salad Place",
+            "pluralName": "Salad Places",
+            "shortName": "Salad",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/salad_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4afa387ff964a520641722e3",
+        "name": "Nasai Teriyaki",
+        "location": {
+          "address": "506 228th Ave NE",
+          "lat": 47.61402273203825,
+          "lng": -122.03380983564666,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.61402273203825,
+              "lng": -122.03380983564666
+            }
+          ],
+          "distance": 161,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "506 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d142941735",
+            "name": "Asian Restaurant",
+            "pluralName": "Asian Restaurants",
+            "shortName": "Asian",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "554487",
+          "url": "https://www.grubhub.com/restaurant/nasai-teriyaki-506-228th-ave-ne-sammamish/554487?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=554487",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "5bc7e6b6364d97002cfc4994",
+        "name": "Pho Vinason",
+        "location": {
+          "lat": 47.617226,
+          "lng": -122.03431,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.617226,
+              "lng": -122.03431
+            }
+          ],
+          "distance": 216,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14a941735",
+            "name": "Vietnamese Restaurant",
+            "pluralName": "Vietnamese Restaurants",
+            "shortName": "Vietnamese",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vietnamese_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "1247057",
+          "url": "https://www.grubhub.com/restaurant/vinason-pho-and-grill-22830-ne-8th-st-ste-107-sammamish/1247057?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1247057",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4ad21006f964a52025df20e3",
+        "name": "Pine Lake Ale House",
+        "location": {
+          "address": "640 228th Ave NE",
+          "lat": 47.61559030285743,
+          "lng": -122.03491970207847,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.61559030285743,
+              "lng": -122.03491970207847
+            },
+            {
+              "label": "entrance",
+              "lat": 47.615519,
+              "lng": -122.035202
+            }
+          ],
+          "distance": 127,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "640 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d11b941735",
+            "name": "Pub",
+            "pluralName": "Pubs",
+            "shortName": "Pub",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "581210c338fafb4f149251b8",
+        "name": "Mercury's Coffee",
+        "location": {
+          "address": "22631 NE Inglewood Hill Rd",
+          "lat": 47.615476856914896,
+          "lng": -122.03711705661077,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.615476856914896,
+              "lng": -122.03711705661077
+            }
+          ],
+          "distance": 291,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "22631 NE Inglewood Hill Rd",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4be8b865ee96c928d87efebf",
+        "name": "Domino's Pizza",
+        "location": {
+          "address": "462 228th Ave NE",
+          "lat": 47.613580999999996,
+          "lng": -122.03433799999999,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.613580999999996,
+              "lng": -122.03433799999999
+            },
+            {
+              "label": "entrance",
+              "lat": 47.613404,
+              "lng": -122.034613
+            }
+          ],
+          "distance": 220,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "462 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ca941735",
+            "name": "Pizza Place",
+            "pluralName": "Pizza Places",
+            "shortName": "Pizza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4b284facf964a5205e9224e3",
+        "name": "Papa Murphy's",
+        "location": {
+          "address": "709 228th Ave NE",
+          "lat": 47.61567106301836,
+          "lng": -122.0363476622,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.61567106301836,
+              "lng": -122.0363476622
+            },
+            {
+              "label": "entrance",
+              "lat": 47.615337,
+              "lng": -122.036023
+            }
+          ],
+          "distance": 234,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "709 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ca941735",
+            "name": "Pizza Place",
+            "pluralName": "Pizza Places",
+            "shortName": "Pizza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4ac90802f964a5202cbe20e3",
+        "name": "Taco Time",
+        "location": {
+          "address": "430 228th Ave NE",
+          "crossStreet": "at NE 5th St",
+          "lat": 47.613645843290975,
+          "lng": -122.03509147166409,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.613645843290975,
+              "lng": -122.03509147166409
+            }
+          ],
+          "distance": 241,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "430 228th Ave NE (at NE 5th St)",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d151941735",
+            "name": "Taco Place",
+            "pluralName": "Taco Places",
+            "shortName": "Tacos",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/taco_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "5dfbf4196ff1a30008e6ab8c",
+        "name": "Dairy Queen",
+        "location": {
+          "address": "22911 NE 4th St",
+          "lat": 47.6126850160616,
+          "lng": -122.03393407299899,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.6126850160616,
+              "lng": -122.03393407299899
+            }
+          ],
+          "distance": 309,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "22911 NE 4th St",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c9941735",
+            "name": "Ice Cream Shop",
+            "pluralName": "Ice Cream Shops",
+            "shortName": "Ice Cream",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "delivery": {
+          "id": "2040636",
+          "url": "https://www.grubhub.com/restaurant/dairy-queen-grill-22911-ne-4th-st-sammamish/2040636?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=2040636",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4b06f83af964a52083f422e3",
+        "name": "Starbucks",
+        "location": {
+          "address": "340 228th Ave NE",
+          "lat": 47.612662775060464,
+          "lng": -122.03502817598267,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.612662775060464,
+              "lng": -122.03502817598267
+            },
+            {
+              "label": "entrance",
+              "lat": 47.612565,
+              "lng": -122.035151
+            }
+          ],
+          "distance": 335,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "340 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4ea376615c5cd12b3617157c",
+        "name": "U-Top It",
+        "location": {
+          "address": "660 228th Ave NE",
+          "lat": 47.61385951576462,
+          "lng": -122.0348224189287,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.61385951576462,
+              "lng": -122.0348224189287
+            }
+          ],
+          "distance": 210,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "660 228th Ave NE",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "512e7cae91d4cbb4e5efe0af",
+            "name": "Frozen Yogurt Shop",
+            "pluralName": "Frozen Yogurt Shops",
+            "shortName": "Yogurt",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/frozenyogurt_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      },
+      {
+        "id": "4b1dc14cf964a520df1424e3",
+        "name": "Lanponi Thai",
+        "location": {
+          "address": "22649 NE Inglewood Hill Rd",
+          "lat": 47.61554465994542,
+          "lng": -122.03693635515442,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 47.61554465994542,
+              "lng": -122.03693635515442
+            },
+            {
+              "label": "entrance",
+              "lat": 47.615691,
+              "lng": -122.036791
+            }
+          ],
+          "distance": 277,
+          "postalCode": "98074",
+          "cc": "US",
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "formattedAddress": [
+            "22649 NE Inglewood Hill Rd",
+            "Sammamish, WA 98074",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d149941735",
+            "name": "Thai Restaurant",
+            "pluralName": "Thai Restaurants",
+            "shortName": "Thai",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1591074050",
+        "hasPerk": false
+      }
+    ],
+    "confident": false
+  }
+}

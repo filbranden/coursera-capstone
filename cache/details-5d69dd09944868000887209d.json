@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5ed7275e949393001c1afb8e"
+  },
+  "response": {
+    "venue": {
+      "id": "5d69dd09944868000887209d",
+      "name": "Zeeks Pizza",
+      "contact": {
+        "phone": "4258938646",
+        "formattedPhone": "(425) 893-8646",
+        "twitter": "zeekspizza",
+        "instagram": "zeekspizza",
+        "facebook": "35849639388",
+        "facebookUsername": "zeekspizza",
+        "facebookName": "Zeeks Pizza"
+      },
+      "location": {
+        "address": "17255 135th Ave NE",
+        "crossStreet": "at NE 173rd St",
+        "lat": 47.752583,
+        "lng": -122.159231,
+        "labeledLatLngs": [
+          {
+            "label": "display",
+            "lat": 47.752583,
+            "lng": -122.159231
+          }
+        ],
+        "postalCode": "98072",
+        "cc": "US",
+        "city": "Woodinville",
+        "state": "WA",
+        "country": "United States",
+        "formattedAddress": [
+          "17255 135th Ave NE (at NE 173rd St)",
+          "Woodinville, WA 98072",
+          "United States"
+        ]
+      },
+      "canonicalUrl": "https://foursquare.com/v/zeeks-pizza/5d69dd09944868000887209d",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1ca941735",
+          "name": "Pizza Place",
+          "pluralName": "Pizza Places",
+          "shortName": "Pizza",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          },
+          "primary": true
+        }
+      ],
+      "verified": false,
+      "stats": {
+        "tipCount": 0
+      },
+      "url": "https://zeekspizza.com",
+      "price": {
+        "tier": 1,
+        "message": "Cheap",
+        "currency": "$"
+      },
+      "hasMenu": true,
+      "likes": {
+        "count": 1,
+        "groups": [
+          {
+            "type": "others",
+            "count": 1,
+            "items": [
+              {
+                "id": "5296",
+                "firstName": "John",
+                "lastName": "B",
+                "photo": {
+                  "prefix": "https://fastly.4sqi.net/img/user/",
+                  "suffix": "/5296_1240609597.jpg"
+                }
+              },
+              {
+                "id": "5296",
+                "firstName": "John",
+                "lastName": "B",
+                "photo": {
+                  "prefix": "https://fastly.4sqi.net/img/user/",
+                  "suffix": "/5296_1240609597.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "summary": "1 Like"
+      },
+      "dislike": false,
+      "ok": false,
+      "delivery": {
+        "id": "1553324",
+        "url": "https://www.grubhub.com/restaurant/zeeks-pizza-woodinville-17255-135th-ave-ne-woodinville/1553324?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1553324",
+        "provider": {
+          "name": "grubhub",
+          "icon": {
+            "prefix": "https://fastly.4sqi.net/img/general/cap/",
+            "sizes": [
+              40,
+              50
+            ],
+            "name": "/delivery_provider_grubhub_20180129.png"
+          }
+        }
+      },
+      "menu": {
+        "type": "Menu",
+        "label": "Menu",
+        "anchor": "View Menu",
+        "url": "https://zeekspizza.com/wp-content/uploads/2019/08/Food-Woodinville.pdf",
+        "mobileUrl": "https://zeekspizza.com/wp-content/uploads/2019/08/Food-Woodinville.pdf",
+        "externalUrl": "https://zeekspizza.com/wp-content/uploads/2019/08/Food-Woodinville.pdf"
+      },
+      "allowMenuUrlEdit": true,
+      "beenHere": {
+        "count": 0,
+        "unconfirmedCount": 0,
+        "marked": false,
+        "lastCheckinExpiredAt": 0
+      },
+      "specials": {
+        "count": 0,
+        "items": []
+      },
+      "photos": {
+        "count": 0,
+        "groups": []
+      },
+      "reasons": {
+        "count": 0,
+        "items": []
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "createdAt": 1567218953,
+      "tips": {
+        "count": 0,
+        "groups": [
+          {
+            "type": "others",
+            "name": "All tips",
+            "count": 0,
+            "items": []
+          }
+        ]
+      },
+      "shortUrl": "https://4sq.com/32bdAFc",
+      "timeZone": "America/Los_Angeles",
+      "listed": {
+        "count": 0,
+        "groups": [
+          {
+            "type": "others",
+            "name": "Lists from other people",
+            "count": 0,
+            "items": []
+          }
+        ]
+      },
+      "hours": {
+        "status": "Open until 10:00 PM",
+        "richStatus": {
+          "entities": [],
+          "text": "Open until 10:00 PM"
+        },
+        "isOpen": true,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon\u2013Sun",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "11:00 AM\u201310:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "seasonalHours": [],
+      "defaultHours": {
+        "status": "Open until 10:00 PM",
+        "richStatus": {
+          "entities": [],
+          "text": "Open until 10:00 PM"
+        },
+        "isOpen": true,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon\u2013Sun",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "11:00 AM\u201310:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "pageUpdates": {
+        "count": 0,
+        "items": []
+      },
+      "inbox": {
+        "count": 0,
+        "items": []
+      },
+      "attributes": {
+        "groups": [
+          {
+            "type": "price",
+            "name": "Price",
+            "summary": "$",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Price",
+                "displayValue": "$",
+                "priceTier": 1
+              }
+            ]
+          },
+          {
+            "type": "reservations",
+            "name": "Reservations",
+            "count": 3,
+            "items": [
+              {
+                "displayName": "Reservations",
+                "displayValue": "No"
+              }
+            ]
+          },
+          {
+            "type": "payments",
+            "name": "Credit Cards",
+            "summary": "Credit Cards",
+            "count": 7,
+            "items": [
+              {
+                "displayName": "Credit Cards",
+                "displayValue": "Yes (incl. Discover & Visa)"
+              }
+            ]
+          },
+          {
+            "type": "outdoorSeating",
+            "name": "Outdoor Seating",
+            "summary": "Outdoor Seating",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Outdoor Seating",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "music",
+            "name": "Music",
+            "summary": "Jukebox",
+            "count": 3,
+            "items": [
+              {
+                "displayName": "Jukebox",
+                "displayValue": "Jukebox"
+              }
+            ]
+          },
+          {
+            "type": "wifi",
+            "name": "Wi-Fi",
+            "summary": "Free Wi-Fi",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Wi-Fi",
+                "displayValue": "Free"
+              }
+            ]
+          },
+          {
+            "type": "serves",
+            "name": "Menus",
+            "summary": "Happy Hour, Lunch & more",
+            "count": 8,
+            "items": [
+              {
+                "displayName": "Lunch",
+                "displayValue": "Lunch"
+              },
+              {
+                "displayName": "Dinner",
+                "displayValue": "Dinner"
+              },
+              {
+                "displayName": "Dessert",
+                "displayValue": "Dessert"
+              },
+              {
+                "displayName": "Happy Hour",
+                "displayValue": "Happy Hour"
+              }
+            ]
+          },
+          {
+            "type": "drinks",
+            "name": "Drinks",
+            "summary": "Beer, Wine & Full Bar",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Beer",
+                "displayValue": "Beer"
+              },
+              {
+                "displayName": "Wine",
+                "displayValue": "Wine"
+              },
+              {
+                "displayName": "Full Bar",
+                "displayValue": "Full Bar"
+              }
+            ]
+          },
+          {
+            "type": "diningOptions",
+            "name": "Dining Options",
+            "summary": "Delivery",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Delivery",
+                "displayValue": "Delivery"
+              }
+            ]
+          },
+          {
+            "type": "parking",
+            "name": "Parking",
+            "summary": "Street Parking",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Street Parking",
+                "displayValue": "Street"
+              }
+            ]
+          },
+          {
+            "type": "restroom",
+            "name": "Restroom",
+            "summary": "Restroom",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Restroom",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "wheelchairAccessible",
+            "name": "Wheelchair Accessible",
+            "summary": "Wheelchair Accessible",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Wheelchair Accessible",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "tvs",
+            "name": "TVs",
+            "summary": "TVs",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "TVs",
+                "displayValue": "Yes"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

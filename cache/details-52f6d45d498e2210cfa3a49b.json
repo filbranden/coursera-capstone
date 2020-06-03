@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5ed5e3d40de0d9001b0e5d3f"
+  },
+  "response": {
+    "venue": {
+      "id": "52f6d45d498e2210cfa3a49b",
+      "name": "Zeeks Pizza Bothell",
+      "contact": {
+        "phone": "4258938646",
+        "formattedPhone": "(425) 893-8646",
+        "twitter": "zeekspizza"
+      },
+      "location": {
+        "address": "1715 228th St SE",
+        "lat": 47.7917171,
+        "lng": -122.2119575,
+        "labeledLatLngs": [
+          {
+            "label": "display",
+            "lat": 47.7917171,
+            "lng": -122.2119575
+          }
+        ],
+        "postalCode": "98021",
+        "cc": "US",
+        "city": "Bothell",
+        "state": "WA",
+        "country": "United States",
+        "formattedAddress": [
+          "1715 228th St SE",
+          "Bothell, WA 98021",
+          "United States"
+        ]
+      },
+      "canonicalUrl": "https://foursquare.com/v/zeeks-pizza-bothell/52f6d45d498e2210cfa3a49b",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1ca941735",
+          "name": "Pizza Place",
+          "pluralName": "Pizza Places",
+          "shortName": "Pizza",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          },
+          "primary": true
+        }
+      ],
+      "verified": true,
+      "stats": {
+        "tipCount": 3
+      },
+      "url": "http://zeekspizza.com/locations-hours/zeeks-pizza-bothell/",
+      "price": {
+        "tier": 2,
+        "message": "Moderate",
+        "currency": "$"
+      },
+      "hasMenu": true,
+      "likes": {
+        "count": 17,
+        "groups": [
+          {
+            "type": "others",
+            "count": 17,
+            "items": []
+          }
+        ],
+        "summary": "17 Likes"
+      },
+      "dislike": false,
+      "ok": false,
+      "rating": 7.9,
+      "ratingColor": "C5DE35",
+      "ratingSignals": 24,
+      "delivery": {
+        "id": "1560404",
+        "url": "https://www.grubhub.com/restaurant/zeeks-pizza-bothell-1715-228th-st-se-bothell/1560404?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1560404",
+        "provider": {
+          "name": "grubhub",
+          "icon": {
+            "prefix": "https://fastly.4sqi.net/img/general/cap/",
+            "sizes": [
+              40,
+              50
+            ],
+            "name": "/delivery_provider_grubhub_20180129.png"
+          }
+        }
+      },
+      "menu": {
+        "type": "Menu",
+        "label": "Menu",
+        "anchor": "View Menu",
+        "url": "https://foursquare.com/v/zeeks-pizza-bothell/52f6d45d498e2210cfa3a49b/menu",
+        "mobileUrl": "https://foursquare.com/v/52f6d45d498e2210cfa3a49b/device_menu"
+      },
+      "allowMenuUrlEdit": true,
+      "beenHere": {
+        "count": 0,
+        "unconfirmedCount": 0,
+        "marked": false,
+        "lastCheckinExpiredAt": 0
+      },
+      "specials": {
+        "count": 0,
+        "items": []
+      },
+      "photos": {
+        "count": 55,
+        "groups": [
+          {
+            "type": "venue",
+            "name": "Venue photos",
+            "count": 55,
+            "items": [
+              {
+                "id": "5e3f0ceb0fd1710007b97bf7",
+                "createdAt": 1581190379,
+                "source": {
+                  "name": "Untappd",
+                  "url": "https://untappd.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/19141740_gyjp68HZPvYYc8OJma1HKozChbWiyQo_ZMtR4LMgI2A.jpg",
+                "width": 2000,
+                "height": 1500,
+                "user": {
+                  "id": "19141740",
+                  "firstName": "Roland",
+                  "lastName": "K",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/FVJ4OLZHLMVEA5WN.jpg"
+                  }
+                },
+                "visibility": "public"
+              }
+            ]
+          }
+        ]
+      },
+      "reasons": {
+        "count": 0,
+        "items": []
+      },
+      "description": "Zeeks Pizza Bothell offers our pizza in many ways, dine-in, take out or pizza delivery to the Bothell area. Call us to ask about delivery to your location.   425-893-8646",
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "createdAt": 1391907933,
+      "tips": {
+        "count": 3,
+        "groups": [
+          {
+            "type": "others",
+            "name": "All tips",
+            "count": 3,
+            "items": [
+              {
+                "id": "52f7110311d262c1858a573c",
+                "createdAt": 1391923459,
+                "text": "Try the John Candy pizza.  It's just the right balNce of meats and cheese.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/52f7110311d262c1858a573c",
+                "lang": "en",
+                "likes": {
+                  "count": 1,
+                  "groups": [
+                    {
+                      "type": "others",
+                      "count": 1,
+                      "items": [
+                        {
+                          "id": "67481204",
+                          "firstName": "Karlie",
+                          "lastName": "K",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/PUO5IMJU5O4UJEDV.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "summary": "1 like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 0
+                },
+                "user": {
+                  "id": "37743489",
+                  "firstName": "Raleigh",
+                  "lastName": "C",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/A01NRRU0G0PJIEQF.jpg"
+                  }
+                },
+                "authorInteractionType": "liked"
+              }
+            ]
+          }
+        ]
+      },
+      "shortUrl": "http://4sq.com/1bHHWBA",
+      "timeZone": "America/Los_Angeles",
+      "listed": {
+        "count": 0,
+        "groups": [
+          {
+            "type": "others",
+            "name": "Lists from other people",
+            "count": 0,
+            "items": []
+          }
+        ]
+      },
+      "hours": {
+        "status": "Closed until 11:00 AM tomorrow",
+        "richStatus": {
+          "entities": [],
+          "text": "Closed until 11:00 AM tomorrow"
+        },
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon\u2013Sun",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "11:00 AM\u201310:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "popular": {
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "timeframes": [
+          {
+            "days": "Today",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "11:00 AM\u20138:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Tue",
+            "open": [
+              {
+                "renderedTime": "11:00 AM\u2013Noon"
+              },
+              {
+                "renderedTime": "4:00 PM\u20139:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Wed",
+            "open": [
+              {
+                "renderedTime": "4:00 PM\u20138:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Thu",
+            "open": [
+              {
+                "renderedTime": "Noon\u201310:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Fri",
+            "open": [
+              {
+                "renderedTime": "11:00 AM\u20139:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat",
+            "open": [
+              {
+                "renderedTime": "Noon\u201310:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sun",
+            "open": [
+              {
+                "renderedTime": "Noon\u20139:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "seasonalHours": [],
+      "defaultHours": {
+        "status": "Closed until 11:00 AM tomorrow",
+        "richStatus": {
+          "entities": [],
+          "text": "Closed until 11:00 AM tomorrow"
+        },
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon\u2013Sun",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "11:00 AM\u201310:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "pageUpdates": {
+        "count": 0,
+        "items": []
+      },
+      "inbox": {
+        "count": 0,
+        "items": []
+      },
+      "attributes": {
+        "groups": [
+          {
+            "type": "price",
+            "name": "Price",
+            "summary": "$$",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Price",
+                "displayValue": "$$",
+                "priceTier": 2
+              }
+            ]
+          },
+          {
+            "type": "wifi",
+            "name": "Wi-Fi",
+            "summary": "Wi-Fi",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Wi-Fi",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "serves",
+            "name": "Menus",
+            "summary": "Dinner",
+            "count": 8,
+            "items": [
+              {
+                "displayName": "Dinner",
+                "displayValue": "Dinner"
+              }
+            ]
+          },
+          {
+            "type": "diningOptions",
+            "name": "Dining Options",
+            "summary": "Delivery",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Delivery",
+                "displayValue": "Delivery"
+              }
+            ]
+          }
+        ]
+      },
+      "bestPhoto": {
+        "id": "5e3f0ceb0fd1710007b97bf7",
+        "createdAt": 1581190379,
+        "source": {
+          "name": "Untappd",
+          "url": "https://untappd.com"
+        },
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/19141740_gyjp68HZPvYYc8OJma1HKozChbWiyQo_ZMtR4LMgI2A.jpg",
+        "width": 2000,
+        "height": 1500,
+        "visibility": "public"
+      }
+    }
+  }
+}
